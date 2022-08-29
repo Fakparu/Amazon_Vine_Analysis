@@ -16,13 +16,17 @@ Created helpful reviews table.See image below
 ![1 2](https://user-images.githubusercontent.com/105121697/187115593-51c0b236-142b-4ddf-8471-f394388027db.png)
  
 o	How many Vine reviews and non-Vine reviews were there?
+
 From the analysis, there were about 94 helpful reviews and 40,471 non-Vine reviews.
 ![1](https://user-images.githubusercontent.com/105121697/187115618-6c6312de-d314-40bf-8cde-3d40e688acc1.png)
  
-o	Forty-eight (48) Vine reviews were five stars, and 15663 non-Vine reviews were five stars.
+o	How many Vine reviews were 5 stars? 
+
+Forty-eight (48) Vine reviews were five stars, and 15663 non-Vine reviews were five stars.
 ![2](https://user-images.githubusercontent.com/105121697/187115652-c0a60e3b-9d25-4387-abf7-40cfd10dad4d.png)
 
-o	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+o	What percentage of Vine reviews were 5 stars? 
+
 51.16% of Vine reviews are five stars while 38.71% were non-Vine reviews.
 ![3](https://user-images.githubusercontent.com/105121697/187115695-9a51c271-c81a-43eb-8735-bebdc7655e25.png)
 
