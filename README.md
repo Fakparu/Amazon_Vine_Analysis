@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 Perform ETL process with PySpark
 
-##Overview of the analysis
+## Overview of the analysis
 
 The purpose of this analysis of video games is to determine if there is any bias towards reviews that were written as part of the Vine program, if having paid Vine review makes a difference in the percentage of 5-star reviews.
 
@@ -19,8 +19,7 @@ o	How many Vine reviews and non-Vine reviews were there?
 From the analysis, there were about 94 helpful reviews and 40,471 non-Vine reviews.
 ![1](https://user-images.githubusercontent.com/105121697/187115618-6c6312de-d314-40bf-8cde-3d40e688acc1.png)
  
-o	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-Forty-eight (48) Vine reviews were five stars, and 15663 non-Vine reviews were five stars.
+o	Forty-eight (48) Vine reviews were five stars, and 15663 non-Vine reviews were five stars.
 ![2](https://user-images.githubusercontent.com/105121697/187115652-c0a60e3b-9d25-4387-abf7-40cfd10dad4d.png)
 
 o	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
